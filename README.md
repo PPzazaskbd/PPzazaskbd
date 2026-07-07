@@ -1,5 +1,5 @@
 ## Hi there 👋
-test test 123
+a computer engineering student finding their way through this bizarre, fascinating and often _unglamorous_ world
 <!--
 **PPzazaskbd/PPzazaskbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
